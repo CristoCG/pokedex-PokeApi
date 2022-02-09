@@ -1,0 +1,14 @@
+.header{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px ;
+}
+
+.pokedex-grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 0 10px;
+}
